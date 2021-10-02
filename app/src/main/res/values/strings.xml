@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Recognize Text</string>
+    <string name="todo">TODO</string>
+    <string name="translation">Translation</string>
+    <string name="night">Night Mode</string>
+    <string name="about_as">About As</string>
+    <string name="get_help">Get Help</string>
+    <string name="version">Version 1.0.2 ( Vinegar )</string>
+    <string name="developers">Developers</string>
+    <string name="developer_content">This application was developed by an independent developer named Awais Hammouda, twenty years old. There is no official sponsor or specific company</string>
+    <string name="shareholders">Shareholders</string>
+    <string name="content_shareholders">Was assisted in a small circle at the University Translators will be mentioned in the event of translation in later versions</string>
+    <string name="open_source">Open Source Licenses</string>
+    <string name="content_open_soruce">This is a product that uses a lot of open source software if you are interested you can see it</string>
+    <string name="link1">https://tesseract-ocr.github.io/tessdoc/Training-Tesseract.html</string>
+    <string name="link2">https://github.com/tesseract-ocr/tesseract</string>
+    <string name="link3">https://en.wikipedia.org/wiki/Optical_character_recognition</string>
+    <string name="display">Display</string>
+    <string name="last_modified">Last Modified</string>
+    <string name="alphabet">Alphabet</string>
+    <string name="random">Random</string>
+    <string name="speech_to_text">Speech To Text</string>
+    <string name="empty"></string>
+    <string name="help_request_content">Do you have any comments? We want to know your opinion, but please do not share any sensitive information. Do you have any legal questions or concerns? You can ask for help or support</string>
+    <string name="you_problem">Write you problem</string>
+</resources>
